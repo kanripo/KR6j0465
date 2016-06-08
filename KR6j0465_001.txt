@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:03.323357
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:14
 #+TITLE: 阿吒婆拘鬼神大將上佛陀羅尼神呪經
 #+PROPERTY: CBETA_ID T21n1237
 #+PROPERTY: ID KR6j0465
